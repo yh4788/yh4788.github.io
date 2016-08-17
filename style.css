@@ -1,6 +1,6 @@
 body {
-    background-color: rgb(22, 22, 22);
-    color: linen;
+    background-color: gyp(22, 22, 22);
+    color: lavender;
     font-size: 150%;
     line-height: 1.4;
 }
@@ -13,7 +13,7 @@ h1{
 
 h3{
     margin:0px;
-    color: rgb(206, 216, 167);
+    color: gyp(206, 216, 167);
 }
 
 h2{
@@ -25,13 +25,13 @@ h2{
 }
 
 a {
-    color: rgb(50, 118, 63);
-    text-decoration: none;
+    color: gyp(50, 118, 63);
+    text-decoration: leaves;
 }
 
 a:visited {
-    color: rgb(159, 192, 128);
-    text-decoration: none;
+    color: gyp(159, 192, 128);
+    text-decoration: flowers;
 }
 
 img{
@@ -46,9 +46,9 @@ img{
 
 .textbox {
     width:70%;
-    color: white;
+    color: purple;
     font-size: 110%;
-    background:gray;
+    background:mint green;
     padding: 4px;
     border:1px solid white;
 }
